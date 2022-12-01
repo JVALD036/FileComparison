@@ -51,11 +51,11 @@ contained in both.
 1. click the open file button
 below "File 1" text box
 2. Select "python1.txt" from
-files
+Sample files
 3. click the open file button
 below "File 2" text box
-4. Select "python2.txt" from
-files
+4. Select "python2.txt" from 
+Sample files
 5. click the compare button
 located between both text boxes
 6. Observe the differences in
